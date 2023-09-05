@@ -1,0 +1,1226 @@
+[
+    {
+        "namaProduk": "Make Over Hydrastay Lite Glow Cushion",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/0dc560e9257c8a9eb53f9960f36ee7e06f034d00.png",
+        "harga": "Rp. 213.750",
+        "skinType": "Kering dan Normal",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Make Over Powerstay Demi-Matte Cover Cushion ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/eccac92e7a80088dd464f2866b044f5e17666513.jpg",
+        "harga": "Rp. 213.750",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Make Over Powerstay 24h Weightless Liquid Foundation ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/9235df3837cbc3197ac1d93e321b4b854f4253b8.jpg",
+        "harga": "Rp. 171.125",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Make Over Ultra Cover Liquid Matt Foundation ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/de7fbd53db081b78acc393fc67e1050189be070b.jpg",
+        "harga": "Rp. 154.850",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Make Over Hydrastay Glow Fluid Foundation ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/c7dd7d2a97189a627b8e27a63a7e5c68289d6b48.jpg",
+        "harga": "Rp. 189.000",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Make Over Powerstay Total Cover Matte Cream Foundation ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/ab346895a55038921ab30fbd9e78ac80bf687a12.jpg",
+        "harga": "Rp. 155.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Make Over Silky Smooth Translucent Powder ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/07a2e02e0cee3389f09e914fe0850d5d9f3938a8.jpg",
+        "harga": "Rp. 137.750",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Make Over Shimmering Powder ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/8cbb57d67d13a2709712fddffccf62fb13c66b06.jpg",
+        "harga": "Rp. 127.000",
+        "skinType": "Kering dan Normal",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Alas Bedak Make Over Powerstay Matte ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/c283fa00071417560a75d891f3e08401b4304f4f.jpg",
+        "harga": "Rp. 189.625",
+        "skinType": "Berminyak (Oily Skin) dan Kombinasi",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Make Over Hydrastay Radiant Finishing Powder",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/3f770514e838ee9d4f81949586433417aeda593f.jpeg",
+        "harga": "Rp. 131.000",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Make Over Powerstay Mattifying Transparent Powder ",
+        "imageUrl": "https://makeover-bucket-testing.s3.ap-southeast-1.amazonaws.com/images/productthumbnail/4e4fb2fbed89aded9bc1a33400a540e66eabb876.jpg",
+        "harga": "Rp. 145.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Maybelline New York Fit Me Fresh Tint Foundation ",
+        "imageUrl": "https://images.soco.id/4208aab7-0815-4d3a-b4a7-23116b6f28a2-.jpg",
+        "harga": "Rp. 109.000",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Maybelline New York Fit Me! Powder Foundation ",
+        "imageUrl": "https://images.soco.id/9a6c0575-9021-4cf6-92da-a28d66573729-55146891048-1626405983863.png",
+        "harga": "Rp. 149.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Maybelline New York Fit Me Matte + Poreless Cushion",
+        "imageUrl": "https://image.femaledaily.com/dyn/640/images/prod-pics/product_1635745020_128_800x800.jpg",
+        "harga": "Rp. 209.300",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Maybelline New York Instant Age Rewind Eraser Treatment Make Up ",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/3/3/0/9/2/33092-large_default.jpg",
+        "harga": "Rp. 155.000",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Maybelline New York Fit Me + Poreless Liquid Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/3/2/2/8/1/32281-large_default.jpg",
+        "harga": "Rp. 165.900",
+        "skinType": "Normal dan Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "L'Oreal Paris Infallible 24H Matte Cover Foundation ",
+        "imageUrl": "https://images.soco.id/9370cab2-16db-42ab-a389-94a381581a08-image-0-1614050910584",
+        "harga": "Rp. 222.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "L'Oreal Paris Infallible 24H Fresh Wear Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/6/8/8/0/26880-large_default.jpg",
+        "harga": "Rp. 270.500",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "L'Oreal Paris Infallible Pro-Matte Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/1/3/5/3/2/13532-large_default.jpg",
+        "harga": "Rp. 222.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "L'Oreal Paris True Match Liquid Satin Smooth Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/0/1/3/3/20133-large_default.jpg",
+        "harga": "Rp. 240.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "L'Oreal Paris True Match Cushion Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/1/0/6/5/4/10654-large_default.jpg",
+        "harga": "Rp. 330.800",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "L'Oreal Paris Match Lumi Healthy Luminous Makeup",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/soc-uploader/images/MZai805HCTphiuEOgN5oJB3rpVtVpb_1499857061.jpg",
+        "harga": "Rp. 300.000",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "L'Oreal Paris Mat Magique Liquid Foundation",
+        "imageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/510VLOQR4lL.jpg",
+        "harga": "Rp. 150.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "L'Oreal Paris Infallible Pro-Glow Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/1/3/5/4/0/13540-large_default.jpg",
+        "harga": "Rp. 169.000",
+        "skinType": "Kering dan Normal",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Wardah Lightening Liquid Foundation ",
+        "imageUrl": "https://images.soco.id/image-6-1601369715704",
+        "harga": "Rp. 55.000",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Wardah Exclusive Flawless Cover Cushion ",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/3/0/0/3/3/30033-large_default.jpg",
+        "harga": "Rp. 145.500",
+        "skinType": "Normal",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Wardah Everyday Luminous Liquid Foundation ",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/2/1/0/3/22103-large_default.jpg",
+        "harga": "Rp. 43.500",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Wardah Lightening BB Cream ",
+        "imageUrl": "https://images.soco.id/36108529475-1585708820152.png",
+        "harga": "Rp. 65.900",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Wardah Exclusive Creamy Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/2/5/0/3/22503-large_default.jpg",
+        "harga": "Rp. 100.000",
+        "skinType": "Normal dan Berminyak (Oily Skin)",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Wardah Everyday BB Cream ",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/1/4/7/6/9/14769-large_default.jpg",
+        "harga": "Rp. 52.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Wardah Colorfit Matte Foundation ",
+        "imageUrl": "https://images.soco.id/79998c7d-8a46-4dfb-8aaf-ec66cf56e4be-image-7-1614220904598",
+        "harga": "Rp. 58.900",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Wardah Exclusive Liquid Foundation ",
+        "imageUrl": "https://d2jlkn4m127vak.cloudfront.net/medias/products/variant-1675432509.png",
+        "harga": "Rp. 100.000",
+        "skinType": "Normal dan Berminyak (Oily Skin)",
+        "colorRange": "Medium",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Wardah Colorfit Perfect Glow Cushion ",
+        "imageUrl": "https://images.soco.id/4b3d941d-6b27-4e10-b652-323072cdf933-.jpg",
+        "harga": "Rp. 105.000",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Emina Bare With Me Mineral Mild Foundation ",
+        "imageUrl": "https://images.soco.id/63515001860-1598517096990.png",
+        "harga": "Rp. 83.000",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Emina Bare With Me Mineral Cushion ",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/2/5/0/2/4/25024-large_default.jpg",
+        "harga": "Rp. 128.500",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Emina Daily Matte Cushion ",
+        "imageUrl": "https://images.soco.id/723d98c4-2f22-4179-89fc-727e8b56428e-.jpg",
+        "harga": "Rp. 93.500",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Emina Bare With Me Mineral Loose Powder ",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/5/1/0/8/5108-large_default.jpg",
+        "harga": "Rp. 59.500",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "BLP Face Base Foundation ",
+        "imageUrl": "https://images.soco.id/38215269374-1593145490255.png",
+        "harga": "Rp. 179.100",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "BLP Face Concealer",
+        "imageUrl": "https://images.soco.id/ffd5eb2c-f03f-4ba5-8495-7163328cfad0-image-0-1631776788123",
+        "harga": "Rp. 125.100",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "BLP Cover Cushion Foundation ",
+        "imageUrl": "https://images.soco.id/c8011f60-f723-4c28-8250-8e42f834bafc-image-3-1612754436814",
+        "harga": "Rp. 179.100",
+        "skinType": "Kering dan Sensitif",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "BLP Face Powder Loose Powder ",
+        "imageUrl": "https://images.soco.id/40fec68d-86d8-47a6-946f-372657354125-1680732606.74536.png",
+        "harga": "Rp. 143.100",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "BLP Compact Powder ",
+        "imageUrl": "https://images.soco.id/image-1-1603174034301",
+        "harga": "Rp. 134.100",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "SOMETHINC Badass Breathable Full Coverage 12HR Serum Foundation ",
+        "imageUrl": "https://images.somethinc.com/uploads/products/thumbs/800x800/Serene-BADASS_Breathable_Full_Coverage_12HR_Serum_Foundation.jpg",
+        "harga": "Rp. 119.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "SOMETHINC Hooman Breathable UV Cushion Cover ",
+        "imageUrl": "https://image.femaledaily.com/dyn/500/images/prod-pics/product_1639468729_Hooman_Cus_800x800.jpg",
+        "harga": "Rp. 185.900",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "SOMETHINC DNA Airbrush Breathable Powder Foundation ",
+        "imageUrl": "https://images.somethinc.com/uploads/products/thumbs/800x800/Somethinc_DNA_Square_Cover_%281%29.jpg",
+        "harga": "Rp. 129.000",
+        "skinType": "Sensitif",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "SOMETHINC Copy Paste Breathable Mesh Cushion ",
+        "imageUrl": "https://images.soco.id/6beb022e-5b8c-4e88-b9c1-2095da3d6e33-image-0-1617865173962",
+        "harga": "Rp. 143.150",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Luxcrime 2in1 Breathable Color Stay: Foundation + Concealer",
+        "imageUrl": "https://image.femaledaily.com/dyn/640/images/prod-pics/5637e12933233be1f415ad8aff4f655a.jpg",
+        "harga": "Rp. 130.130",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Luxcrime 2nd Skin Luminous Cushion ",
+        "imageUrl": "https://image.femaledaily.com/dyn/640/images/prod-pics/product_1611823488_Catalogue__800x800.jpg",
+        "harga": "Rp. 196.900",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Luxcrime Ultra Cover Foundation ",
+        "imageUrl": "https://www.beautyhaul.com/assets/uploads/products/thumbs/800x800/LUXCRIME_Ultra_Cover_Foundation_Balm_Banana_Split_%28COVER%29.png",
+        "harga": "Rp. 141.510",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Wardah Instaperfect Matte Fit Powder Foundation",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/img-sociolla/img/p/3/4/7/0/9/34709-large_default.jpg",
+        "harga": "Rp. 139.000",
+        "skinType": "Berminyak (Oily Skin)",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Wardah Lightening Powder Foundation Extra Cover ",
+        "imageUrl": "https://images.soco.id/333-cover21.jpg.jpg",
+        "harga": "Rp. 61.500",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (1C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620235-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (2N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620235-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (3W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620243-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (4C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620250-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (5N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620268-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (6W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620276-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (7C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620284-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (8N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620292-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (9W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620300-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (10C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620318-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (11N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620326-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (12O)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620334-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warmand Olive",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (13W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620342-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (14O)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620359-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warmand Olive",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (15N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620367-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (16C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620375-main-zoom.jpg?imwidth=315",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (17N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620383-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (18W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620391-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (19C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620409-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (20N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620417-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (21W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620425-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (22C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620433-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (23O)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620441-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (24N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620458-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (25W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620466-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Neutral",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (26N)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620474-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (27W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620482-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (28W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620490-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Cool",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (29C)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620508-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Makeup By Mario SurrealSkin Liquid Foundation (30W)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2620524-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 624.372",
+        "skinType": "Kering",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L0)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514735-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L1)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514735-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L2)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514727-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L2.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514719-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M1.2)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514644-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L3)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514701-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M1.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514636-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M2)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514628-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral and Peach",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L3.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514693-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L4)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514685-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M2.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514610-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Peach",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M3)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514602-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Yellow",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L4.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514677-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L4.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514669-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (L5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514594-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Olive",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M3.5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514586-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Golden",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M4)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514651-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Golden",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M1)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514578-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Peach",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514560-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (M6)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514552-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD1)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514545-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Olive",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD2)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514537-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD2.3)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514529-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD2.6)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514511-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD3)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514503-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral and Golden",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD3.3)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514495-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD3.6)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514487-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Red",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD4)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514479-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Olive",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (MD5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514461-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D1)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514453-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D2)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514446-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Olive",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D3)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514438-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral and Olive",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D4)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514420-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warmand Red",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D5)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514412-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Warm",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D6)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2550473-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D7)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2550481-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Nars Light Reflectiong Advanced Skincare Foundation (D8)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2514412-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 743.300",
+        "skinType": "All Skintype",
+        "colorRange": "Cool",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Cloud)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084606-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutralto Rosy",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Swan)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1960814-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Snow)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1762608-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutralto Rosy",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Ivory)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711928-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Almond)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1960764-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Seashell)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084614-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Pearl)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1762616-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 1
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Porcelain)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711910-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Vanilla)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711936-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Nude)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711944-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (WarmNude)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711951-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Golden Beige)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1960772-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Light Beige)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711969-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Natural Beige)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711977-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 2
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (WarmBeige)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711985-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Sand)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1711993-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Golden)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1712009-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Praline)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084622-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (WarmSand)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1960780-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Honey)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1712017-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Caramel)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1712025-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 3
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Brulee)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084648-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Mocha)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1762624-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Butter Pecan)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084630-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Maple)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1762632-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Chesnut)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1762640-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Chai)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084655-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Mahogany)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1762657-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 4
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Spiced Rum)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084663-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Hazelnut)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1960798-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation  (Tiramisu)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084671-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Cocoa)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s1960806-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Sable)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084689-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Rosy",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Truffle)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084697-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Golden",
+        "SkintoneId": 5
+    },
+    {
+        "namaProduk": "Too Faced Born This Way Natural Finish Longwear Liquid Foundation (Ganache)",
+        "imageUrl": "https://www.sephora.com/productimages/sku/s2084705-main-zoom.jpg?imwidth=630",
+        "harga": "Rp. 668.970",
+        "skinType": "All Skintype",
+        "colorRange": "Neutral",
+        "SkintoneId": 5
+    }
+]

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="webthemez">
+    <title>Toneology</title>
+	<!-- core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/animate.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/prettyPhoto.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='vendors/animate-css/animate.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='vendors/popup/magnific-popup.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}" />
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/ico/logo.png') }}">
+</head>
+<body id="home">
+    <header id="header">
+        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img src="{{ url_for('static', filename='images/logo.png') }}" alt="logo"></a>
+                </div>
+
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="scroll active"><a href="#home">Home</a></li>
+                        <li class="scroll"><a href="#services">Benefit</a></li>
+                        <li class="scroll"><a href="#magazine">Magazine</a></li>
+                        <li class="scroll"><a href="#about">About</a></li>
+                        <li class="scroll"><a href="#our-team">Team</a></li>
+                        <li class="scroll"><a href="#contact-us">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div style="padding: 100px;">
+        <h1>Hello, {{user}} this is the products that we recommend based on your skintone, {{skintone}}.</h1>
+    </div>
+    <div class="row"> 
+    {% for row in recommendation_df %}
+        <div class="col-lg-4 col-md-6" style="padding: 1% 0.5%;">
+            <div class="card" style="width: 40rem; padding-left: 100px;">
+                <center>
+                    <img class="card-img-top" src="{{row['imageUrl']}}" alt="Card image cap" style="width:40%; height:40%;">
+                </center>
+                <div class="card-body">
+                    <center>
+                        <h3 class="card-title">{{row['namaProduk']}}</h3>
+                    <center>
+                    <h5>Undertone : </h5> 
+                    <p class="card-text">{{row['colorRange']}}</p>
+                    <h5>Harga : </h5> 
+                    <p class="card-text">{{row['harga']}}</p>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+    
+    <script src="../js/jquery.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/mousescroll.js"></script>
+    <script src="../js/smoothscroll.js"></script>
+    <script src="../js/jquery.isotope.min.js"></script>
+    <script src="../js/jquery.inview.min.js"></script>
+    <script src="../js/wow.min.js"></script>
+    <script src="../js/custom-scripts.js"></script>
+    <script src="../js/jquery.prettyPhoto.js"></script>
+
+</html>
+
+

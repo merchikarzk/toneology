@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="webthemez">
+    <title>Toneology</title>
+	<!-- core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/animate.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/prettyPhoto.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='vendors/animate-css/animate.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='vendors/popup/magnific-popup.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}" />
+   
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/ico/logo.png') }}">
+</head>
+<body id="home">
+    <header id="header">
+        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img src="{{ url_for('static', filename='images/logo.png') }}" alt="logo"></a>
+                </div>
+
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="scroll active"><a href="#home">Home</a></li>
+                        <li class="scroll"><a href="#services">Benefit</a></li>
+                        <li class="scroll"><a href="#magazine">Magazine</a></li>
+                        <li class="scroll"><a href="#about">About</a></li>
+                        <li class="scroll"><a href="#our-team">Team</a></li>
+                        <li class="scroll"><a href="#contact-us">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section id="hero-banner">
+        <div class="banner-inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2>Every Skin Color is <b>BEAUTIFUL</b></h2>
+                            <p>Check your skin color now!</p>
+                            <!-- Modal Form Starts Here -->
+                            <div style="padding-left: 1050px; margin: 20px;">
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Check</button>
+                            </div>
+                            <!-- Modal -->
+                            {% if show_modal %}
+                            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h4 class="modal-title"  id="myModalLabel" style="color: black" align="center">Please Provide Your Information</h4>
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        </div>
+                                        <form action=/prediction  method="POST" enctype="multipart/form-data">
+                                            <div class="modal-body">
+                                                <div class="form-group">
+                                                    <label for="guestName" style="color: black">Guest Name:</label>
+                                                    <input type="text" class="form-control" name="guestName" id="guestName">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label for="file" style="color: black">Image File:</label>
+                                                    <input type="file" class="form-control" name='file' id="file">
+                                                </div> 
+                                            </div>
+                                            <div class="modal-footer" >
+                                                <button type="submit" class="btn btn-primary">Submit</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <section id="services" >
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">App Benefit</h2>
+            </div>
+
+            <div class="row">
+                <div class="features">
+                    <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-heart"></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Helps predict your skin tone</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-heart"></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Reduce the risk of purchasing the wrong color foundation</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-heart"></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Recommend foundation colors that suit on you</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-heart"></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">As your personal beauty advisor</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="magazine">
+        <div class="three-block  area-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="section-header">
+                        <h2 class="section-title wow fadeInDown">Magazine</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="single-blog style-five">
+                            <div class="thumb">
+                                <img class="img-fluid" src="{{ url_for('static', filename='images/magazine/1.jpg') }}" alt="">
+                            </div>
+                            <div class="short_details">
+                                <div class="meta-top d-flex">
+                                    <a href="#">Make Up</a>/
+                                    <a href="#">May 30, 2023</a>
+                                </div>
+                                <a class="d-block" href="#">
+                                    <h4>Tips and Tricks: How to find best shade on foundation </h4>
+                                </a>
+                                <div class="meta-bottom d-flex">
+                                    <a href="#"><i class="fa fa fa-comment-o"></i>06 comment</a>
+                                    <a href="#"><i class="fa fa fa-heart-o"></i> 8 like</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="single-blog style-five">
+                            <div class="thumb">
+                                <img class="img-fluid" src="{{ url_for('static', filename='images/magazine/16.jpg') }}" alt="">
+                            </div>
+                            <div class="short_details">
+                                <div class="meta-top d-flex">
+                                    <a href="#">News</a>/
+                                    <a href="#">May 23, 2023</a>
+                                </div>
+                                <a class="d-block" href="#">
+                                    <h4>Skin Tone Trauma</h4>
+                                </a>
+                                <div class="meta-bottom d-flex">
+                                    <a href="#"><i class="fa fa fa-comment-o"> </i> 15 comment</a>
+                                    <a href="#"><i class="fa fa fa-heart-o"></i> 20 like</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="single-blog style-five">
+                            <div class="thumb">
+                                <img class="img-fluid" src="{{ url_for('static', filename='/images/magazine/2.jpg') }}" alt="">
+                            </div>
+                            <div class="short_details">
+                                <div class="meta-top d-flex">
+                                    <a href="#">News</a>/
+                                    <a href="#">May 19, 2023</a>
+                                </div>
+                                <a class="d-block" href="#">
+                                    <h4>Marketing Still Has a Colorism Problem</h4>
+                                </a>
+                                <div class="meta-bottom d-flex">
+                                    <a href="#"><i class="fa fa fa-comment-o"></i>25 comment</a>
+                                    <a href="#"><i class="fa fa fa-heart-o"></i> 30 like</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <div class="container">
+
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">About Us</h2>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4 wow fadeInLeft">
+                    <img class="img-responsive" src="{{ url_for('static', filename='images/about.jpg') }}" alt="">
+                </div>
+
+                <div class="col-sm-8 wow fadeInRight">
+                    <h3 class="column-title">Toneology</h3>
+                    <p>Toneology is an application that is used to check skin color by submit a picture and then the toneology application will predict skin color and recommend a foundation that is suitable for your skin color. Toneology application will divide skin color into 5 categories namely, pale, light, medium, brown and dark. After your skin color is predicted, this application will recommend several foundation products that match your skin prediction.</p>
+                </div>
+            </div>
+        </div>
+    </section><!--/#about-->
+
+    <section id="our-team">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">
+                    Our Team
+                </h2>
+			</div>
+
+            <div class="row text-center">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ url_for('static', filename='images/team/chika.png') }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Merchika Rizki Jiyestha</h3>
+                            <span>Data Acquisition, Data Exploration, Deployment</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ url_for('static', filename='images/team/mayang.jpeg') }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Mayang Puspita Sari</h3>
+                            <span>Modelling, Model evaluation</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ url_for('static', filename='images/team/rosyid.jpeg') }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>M. Rosyid Iqbal Haqiqi</h3>
+                            <span>UI/UX, Data Exploration</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ url_for('static', filename='images/team/gambar.jpg') }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Triman Lafau</h3>
+                            <span>UI/UX, Modelling</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ url_for('static', filename='images/team/indira.png') }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Ni Made Cahyani Indiraswari</h3>
+                            <span>Data Acquisition, Model Evaluation </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--/#our-team-->
+
+
+    <section class="testimonial-area" id="testimonial">
+			<div class="container">
+				<div class="section-header">
+                <h2 class="section-title wow fadeInDown">Testimonial</h2>
+            </div>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="single-testimonial animate_fade_in" style="opacity: 1; right: 0px;">
+							<div class="row">
+								<div class="col-xs-12">
+									<blockquote>good app with good ui/ux, can predict my skin color correctly. thank you!</blockquote>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<img src="{{ url_for('static', filename='images/pic1.jpg') }}" alt="client">
+								</div>
+								<div class="col-xs-9 half-gutter">
+									<h5>Jeanette</h5>
+									<h6>UI/UX Designer in PegaWHY</h6>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="single-testimonial animate_fade_in" style="opacity: 1; right: 0px;">
+							<div class="row">
+								<div class="col-xs-12">
+									<blockquote>aplikasi ini dapat membantu saya memprdiksi warna kulit dengan baik. saya juga bisa membeli foundation dengan warna yg tepat</blockquote>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<img src="{{ url_for('static', filename='images/pic2.jpg') }}" alt="client">
+								</div>
+								<div class="col-xs-9 half-gutter">
+									<h5>John Bond</h5>
+									<h6>Staff in PegaWHY</h6>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="single-testimonial animate_fade_in" style="opacity: 1; right: 0px;">
+							<div class="row">
+								<div class="col-xs-12">
+									<blockquote>aplikasi sangat membantu saya untuk memilih warna foundation. keren banget!!!</blockquote>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<img src="{{ url_for('static', filename='images/pic1.jpg') }}" alt="client">
+								</div>
+								<div class="col-xs-9 half-gutter">
+									<h5>Jane Doe</h5>
+									<h6>House Wife</h6>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+    <section id="contact-us">
+        <div class="container">
+            <div class="section-header">
+                <!--src="/js/pic2.jpg"-->
+                <h2 class="section-title wow fadeInDown" >Contact Us</h2>
+            </div>
+        </div>
+    </section><!--/#contact-us-->
+
+
+    <section id="contact">
+
+        <div class="container">
+            <div class="container contact-info">
+                <div class="row">
+				  <div class="col-sm-4 col-md-4">
+                        <div class="contact-form">
+                            <h3>Contact Info</h3>
+
+					</div></div>
+                    <div class="col-sm-8 col-md-8">
+                        <div class="contact-form">
+
+                            <form id="main-contact-form" name="contact-form" method="post" action="#">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Email" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control" rows="8" placeholder="Message" required></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Send Message</button>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   </section>
+    <!--/#bottom-->
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2023 Technotronix. Synthesis Academy. MSIB Batch 4
+                </div>
+                <div class="col-sm-6">
+                    <ul class="social-icons">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                        <li><a href="#"><i class="fa fa-github"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->
+
+    
+    <!--Put the js script library under toneology folder     -->
+    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/mousescroll.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/smoothscroll.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery.isotope.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery.inview.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/wow.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/custom-scripts.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery.prettyPhoto.js') }}"></script>
+
+</body>
+</html>
+
+
